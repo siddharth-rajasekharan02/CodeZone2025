@@ -8,3 +8,6 @@ This is where we can practice for the upcoming CodeZone competition.
 [https://drive.google.com/file/d/1wT_RAWpLVyZudjCbERufQ8pJ9xWfa2yA/view?usp=drivesdk] (2023 Solutions)
 
 [https://drive.google.com/file/d/1Hg3VUEsZDi9skBUr-bX1sqCQ9aIwcKcU/view?usp=drivesdk] (2022 Problems and Solutions)
+
+[https://drive.google.com/file/d/1H71pgYSMFjr7WoXtU0-XBvZDvqfe1XZW/view?usp=drivesdk] (2021 Easy Problems and Solutions)
+[https://drive.google.com/file/d/15hfS2MGJZo_daU-xaRLie5kOFx0HOqDu/view?usp=sharing] (2021 Medium Problems and Solutions)
